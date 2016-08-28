@@ -1,0 +1,4 @@
+Username: 1, phone: 1, date and time: 1, barber: Alex 
+Username: 2, phone: 2, date and time: 2, barber: Simona 
+Username: 3, phone: 3, date and time: 3, barber: Makoto 
+Username: 4, phone: 4, date and time: 4, barber: Simona, color: #dc2127 
