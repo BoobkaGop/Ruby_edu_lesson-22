@@ -1,1 +1,1 @@
-# Ruby_edu_lesson-22
+# Ruby lesson 22
